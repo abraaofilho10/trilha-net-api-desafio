@@ -1,3 +1,9 @@
+# Solução para o desafio de projeto
+
+Este repositório possui uma solução para o desafio proposto. O link do projeto original é [https://github.com/digitalinnovationone/trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio).
+
+Abaixo está o Leia-me original.
+
 # DIO - Trilha .NET - API e Entity Framework
 www.dio.me
 
